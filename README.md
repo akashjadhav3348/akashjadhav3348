@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [akashjadhav7218.in](akashjadhav7218.in)
 
-- 💬me about **Hello Akash Dnyaneshwar Jadhav! It's great to meet you. Your passion for frontend development and dedication to crafting exceptional user experiences is fantastic. It sounds like you bring a creative mindset and meticulous coding approach to your work, which are valuable qualities in the ever-evolving field of web development. If there's anything specific you'd like to discuss or if you have any questions related to frontend development or any other topic, feel free to let me know. Whether it's about the latest web development trends, best practices, or any challenges you might be facing, I'm here to help!**
+- 💬 **Hello Akash Dnyaneshwar Jadhav! It's great to meet you. Your passion for frontend development and dedication to crafting exceptional user experiences is fantastic. It sounds like you bring a creative mindset and meticulous coding approach to your work, which are valuable qualities in the ever-evolving field of web development. If there's anything specific you'd like to discuss or if you have any questions related to frontend development or any other topic, feel free to let me know. Whether it's about the latest web development trends, best practices, or any challenges you might be facing, I'm here to help!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
