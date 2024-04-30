@@ -1,6 +1,6 @@
 ![logo](https://github.com/akashjadhav3348/akashjadhav3348/blob/main/Akash%20Banner.png)
 <h1 align="center">Hi 👋, I'm Akash Dnyaneshwar Jadhav</h1>
-<h3 align="center">A passionate Frontend Developer from Pune</h3>
+<h3 align="center">Jr. Frontend Developer from Pune</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashjadhav3348&label=Profile%20views&color=0e75b6&style=flat" alt="akashjadhav3348" /> </p>
 <img align="right" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
