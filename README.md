@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashjadhav3348&label=Profile%20views&color=0e75b6&style=flat" alt="akashjadhav3348" /> </p>
 <img align="right" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 👨‍💻 All of my projects are available at [Akash Jadhav](https://akashjadhav3348.github.io/Akashjadhav.github.io/
+- 👨‍💻 All of my projects are available at [Akash Jadhav](https://akashjadhav3348.github.io/Akashjadhav.github.io/)
 
 - 💬 **Hello Akash Dnyaneshwar Jadhav! It's great to meet you. Your passion for frontend development and dedication to crafting exceptional user experiences is fantastic. It sounds like you bring a creative mindset and meticulous coding approach to your work, which are valuable qualities in the ever-evolving field of web development. If there's anything specific you'd like to discuss or if you have any questions related to frontend development or any other topic, feel free to let me know. Whether it's about the latest web development trends, best practices, or any challenges you might be facing, I'm here to help!**
 
